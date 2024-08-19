@@ -1,0 +1,7 @@
+D:\Codigo julia\Repeticao\exer 1\bin\Debug\exer 1.exe.config
+D:\Codigo julia\Repeticao\exer 1\bin\Debug\exer 1.exe
+D:\Codigo julia\Repeticao\exer 1\bin\Debug\exer 1.pdb
+D:\Codigo julia\Repeticao\exer 1\obj\Debug\exer 1.csproj.AssemblyReference.cache
+D:\Codigo julia\Repeticao\exer 1\obj\Debug\exer 1.csproj.CoreCompileInputs.cache
+D:\Codigo julia\Repeticao\exer 1\obj\Debug\exer 1.exe
+D:\Codigo julia\Repeticao\exer 1\obj\Debug\exer 1.pdb
